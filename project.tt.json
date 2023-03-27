@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "super-handy-gadget",
+  "description": "超级便民小工具",
+  "appid": "wx13276500b646f0f9",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
